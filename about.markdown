@@ -1,18 +1,11 @@
 ---
-layout: page
 title: About Me
+layout: page
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I'm Charlie Silver. Solo founder working on developer tools for AI. I worked as a platform/backend engineer at [Black Rifle Coffee](https://www.blackriflecoffee.com/), [Gamebreaking Studios](https://www.gamebreaking.com/), and [UCLA Social Sciences Computing](https://computing.sscnet.ucla.edu/).
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+![Profile Photo]({{ '/assets/profile.png' | relative_url }})
 
 
-[jekyll-organization]: https://github.com/jekyll
